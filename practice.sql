@@ -8,7 +8,7 @@ CREATE TABLE students (
 
 -- Add a student
 INSERT INTO students (name, age, city)
-VALUES ('Amina', 22, 'Bosaso');
+VALUES ('Amal', 29, 'Bosaso');
 
 -- Get all students
 SELECT * FROM students;
